@@ -1,0 +1,28 @@
+from module_class import Pilot
+
+pilot1 = Pilot("Max", "Verstappen", 25, "Netherlands", "Red Bull Racing")
+pilot1.printPilot()
+print()
+pilot2 = Pilot("Charles", "Leclerc", 25, "Monaco", "Ferrari")
+pilot2.printPilot()
+print()
+pilot3 = Pilot("Sebastian", "Vettel", 35, "Germany", "Aston Martin")
+pilot3.printPilot()
+print()
+pilot4 = Pilot("Valteri", "Bottas", 33, "Finland", "Alfa Romeo Racing")
+pilot4.printPilot()
+print()
+pilot5 = Pilot("Kevin", "Magnussen", 30, "Denmark", "Haas F1")
+pilot5.printPilot()
+print()
+pilot6 = Pilot("Carlos", "Saiz Jr.", 33, "Spain", "Ferrari")
+pilot6.printPilot()
+print()
+pilot7 = Pilot("Yuki", "Tsunoda", 22, "Japan", "Scuderia AlphaTauri")
+pilot7.printPilot()
+print()
+pilot8 = Pilot("Fernando", "Alonso", 41, "Spain", "Aston Martin")
+pilot8.printPilot()
+print()
+
+
